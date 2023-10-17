@@ -39,3 +39,9 @@ $ make && ./main
 
 ### DEP
 This header depends only on the `libcurl` and `devel` headers for compilation.
+
+### Star History
+
+<a href="https://github.com/xtekky/gpt4free/stargazers">
+        <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xtekky/gpt4free&type=Date">
+</a>
